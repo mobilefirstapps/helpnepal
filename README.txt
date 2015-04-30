@@ -18,4 +18,4 @@ Credits:
 
 	Quartz.com
 	Time.com 
-	Public Radio Internation 
+	Public Radio International 
